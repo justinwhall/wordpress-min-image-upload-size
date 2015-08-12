@@ -1,0 +1,11 @@
+#mis-options .clear-vals{
+  border: 1px solid #ccc;
+  background: #fff;
+  border-radius: 20px;
+  padding: 2px 8px;
+}
+#mis-options .clear-vals:hover{
+  cursor: pointer;
+  background: #0074a2;
+  color: #fff;
+}
