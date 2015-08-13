@@ -14,6 +14,8 @@
 
 WP Minimum Image Size validates images uploaded via the media uploader. Minimum upload dimensions can be configured for post types and custom fields. Support for Advanced Custom Fields.
 
+Support: [http://www.justinwhall.com/wp-minimum-image-upload-size/](http://www.justinwhall.com/wp-minimum-image-upload-size/)
+
 ## Installation
 
 ### Using The WordPress Dashboard
