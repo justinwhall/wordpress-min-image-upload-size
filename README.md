@@ -1,6 +1,6 @@
 # WP Minimum Image Size
 
-* Contributors: [Justin W Hall](http://tommcfarlin.com/)
+* Contributors: [Justin W Hall](http://www.justinwhall.com/wp-minimum-image-upload-size/)
 * Tags: posts, images, custom fields
 * Requires at least: 4.2.4
 * Tested up to: 4.2.4
