@@ -151,7 +151,8 @@ class WP_MIS_Settings
      */
     public function render_post_type($args)
     {
-            if(array_key_exists($args['type'], $this->options)){
+    		// Check if the options exist in the options array...
+            if(array_key_exists($args['type'], $this->options) && array_key_exists($args['key'], $this->options[$args['type']])){
                 $width = $this->options[$args['type']][$args['key']][0];
                 $height = $this->options[$args['type']][$args['key']][1];
             }else{
